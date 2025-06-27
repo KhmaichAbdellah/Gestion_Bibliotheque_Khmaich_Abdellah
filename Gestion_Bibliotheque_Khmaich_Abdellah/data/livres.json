@@ -1,0 +1,162 @@
+{
+  "1": {
+    "isbn": "1",
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exup\u00e9ry",
+    "annee": "1943",
+    "genre": "Conte",
+    "statut": "disponible"
+  },
+  "2": {
+    "isbn": "2",
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "annee": "1949",
+    "genre": "Dystopie",
+    "statut": "disponible"
+  },
+  "3": {
+    "isbn": "3",
+    "titre": "L'\u00c9tranger",
+    "auteur": "Albert Camus",
+    "annee": "1942",
+    "genre": "Roman",
+    "statut": "disponible"
+  },
+  "4": {
+    "isbn": "4",
+    "titre": "Les Mis\u00e9rables",
+    "auteur": "Victor Hugo",
+    "annee": "1862",
+    "genre": "Classique",
+    "statut": "emprunt\u00e9"
+  },
+  "5": {
+    "isbn": "5",
+    "titre": "Harry Potter 1",
+    "auteur": "J.K. Rowling",
+    "annee": "1997",
+    "genre": "Fantasy",
+    "statut": "emprunt\u00e9"
+  },
+  "6": {
+    "isbn": "6",
+    "titre": "Le Seigneur des Anneaux",
+    "auteur": "J.R.R. Tolkien",
+    "annee": "1954",
+    "genre": "Fantasy",
+    "statut": "disponible"
+  },
+  "7": {
+    "isbn": "7",
+    "titre": "Le Meilleur des mondes",
+    "auteur": "Aldous Huxley",
+    "annee": "1932",
+    "genre": "Science-fiction",
+    "statut": "disponible"
+  },
+  "8": {
+    "isbn": "8",
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "annee": "1844",
+    "genre": "Aventure",
+    "statut": "emprunt\u00e9"
+  },
+  "9": {
+    "isbn": "9",
+    "titre": "Le Rouge et le Noir",
+    "auteur": "Stendhal",
+    "annee": "1830",
+    "genre": "Classique",
+    "statut": "emprunt\u00e9"
+  },
+  "10": {
+    "isbn": "10",
+    "titre": "Orgueil et Pr\u00e9jug\u00e9s",
+    "auteur": "Jane Austen",
+    "annee": "1813",
+    "genre": "Romance",
+    "statut": "disponible"
+  },
+  "11": {
+    "isbn": "11",
+    "titre": "La M\u00e9tamorphose",
+    "auteur": "Franz Kafka",
+    "annee": "1915",
+    "genre": "Fantastique",
+    "statut": "disponible"
+  },
+  "12": {
+    "isbn": "12",
+    "titre": "L\u2019Alchimiste",
+    "auteur": "Paulo Coelho",
+    "annee": "1988",
+    "genre": "Philosophique",
+    "statut": "disponible"
+  },
+  "13": {
+    "isbn": "13",
+    "titre": "Crime et Ch\u00e2timent",
+    "auteur": "Dosto\u00efevski",
+    "annee": "1866",
+    "genre": "Psychologique",
+    "statut": "disponible"
+  },
+  "14": {
+    "isbn": "14",
+    "titre": "Sapiens",
+    "auteur": "Yuval Noah Harari",
+    "annee": "2011",
+    "genre": "Essai",
+    "statut": "disponible"
+  },
+  "15": {
+    "isbn": "15",
+    "titre": "Le Dernier Jour",
+    "auteur": "Abdellah",
+    "annee": "2020",
+    "genre": "Classique",
+    "statut": "disponible"
+  },
+  "16": {
+    "isbn": "16",
+    "titre": "Antigone",
+    "auteur": "Ahmed",
+    "annee": "2015",
+    "genre": "Romance",
+    "statut": "disponible"
+  },
+  "17": {
+    "isbn": "17",
+    "titre": "Fahrenheit 451",
+    "auteur": "Ray Bradbury",
+    "annee": "1953",
+    "genre": "Dystopie",
+    "statut": "disponible"
+  },
+  "18": {
+    "isbn": "18",
+    "titre": "La Peste",
+    "auteur": "Albert Camus",
+    "annee": "1947",
+    "genre": "Philosophique",
+    "statut": "emprunt\u00e9"
+  },
+  "19": {
+    "isbn": "19",
+    "titre": "L\u2019\u00cele myst\u00e9rieuse",
+    "auteur": "Jules Verne",
+    "annee": "1874",
+    "genre": "Aventure",
+    "statut": "disponible"
+  },
+  "20": {
+    "isbn": "20",
+    "titre": "Don Quichotte",
+    "auteur": "Miguel de Cervantes",
+    "annee": "1605",
+    "genre": "Classique",
+    "statut": "emprunt\u00e9"
+  }
+}

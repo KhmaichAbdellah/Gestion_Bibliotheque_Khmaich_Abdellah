@@ -1,0 +1,94 @@
+{
+  "001": {
+    "nom": "Yassine",
+    "livres_empruntes": [
+      "5",
+      "8",
+      "20"
+    ]
+  },
+  "002": {
+    "nom": "Sara",
+    "livres_empruntes": [
+      "4"
+    ]
+  },
+  "003": {
+    "nom": "Ilyas",
+    "livres_empruntes": [
+      "9"
+    ]
+  },
+  "004": {
+    "nom": "Fatima",
+    "livres_empruntes": []
+  },
+  "005": {
+    "nom": "Omar",
+    "livres_empruntes": [
+      "18"
+    ]
+  },
+  "006": {
+    "nom": "Layla",
+    "livres_empruntes": []
+  },
+  "007": {
+    "nom": "Khalid",
+    "livres_empruntes": []
+  },
+  "008": {
+    "nom": "Amina",
+    "livres_empruntes": []
+  },
+  "009": {
+    "nom": "Ayoub",
+    "livres_empruntes": []
+  },
+  "010": {
+    "nom": "Salma",
+    "livres_empruntes": []
+  },
+  "011": {
+    "nom": "Nadia",
+    "livres_empruntes": []
+  },
+  "012": {
+    "nom": "Mohamed",
+    "livres_empruntes": []
+  },
+  "013": {
+    "nom": "Hamza",
+    "livres_empruntes": []
+  },
+  "014": {
+    "nom": "Rania",
+    "livres_empruntes": []
+  },
+  "015": {
+    "nom": "Anas",
+    "livres_empruntes": [
+      "13"
+    ]
+  },
+  "016": {
+    "nom": "Khadija",
+    "livres_empruntes": []
+  },
+  "017": {
+    "nom": "Imane",
+    "livres_empruntes": []
+  },
+  "018": {
+    "nom": "Reda",
+    "livres_empruntes": []
+  },
+  "019": {
+    "nom": "Soukaina",
+    "livres_empruntes": []
+  },
+  "020": {
+    "nom": "Yasmine",
+    "livres_empruntes": []
+  }
+}
